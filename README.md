@@ -1,4 +1,4 @@
-## Wavelet Research Project
+## Exploring the Applications of Wavelet Transforms in Image and Signal Processing
 The Wavelet Research Project is an exploration into the power of wavelet transforms for image processing. This project covers key topics such as wavelet compression, denoising, and feature extraction, and provides a comparison with other popular techniques such as the Fourier Transform and the Discrete Cosine Transform (DCT).
 
 ### Contents
